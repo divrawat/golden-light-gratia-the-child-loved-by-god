@@ -30,7 +30,7 @@ export const logo = <img src={`${LOGO_URL}`} alt="Logo" className="h-[75px] roun
 export const APP_NAME = 'Golden Light Gratia The Child Loved by God';
 export const NavbarName = "GLGTCLBG";
 
-export const APP_DESCRIPTION = `Read ${MANGA_NAME} manga online at ${DOMAIN}. The story explores Gratia's journey as she navigates challenges with the unwavering support of her community and the guidance of her faith. Through moments of joy and hardship, Gratia's resilience and faith in God's love shine brightly, inspiring all who cross her path. This narrative beautifully illustrates the power of faith, community, and the enduring grace that surrounds a child touched by divine affection.`;
+export const APP_DESCRIPTION = `Read ${MANGA_NAME} manhwa or manga all chapters online. The story explores Gratia's journey as she navigates challenges with the unwavering support of her community and the guidance of her faith. Through moments of joy and hardship, Gratia's resilience and faith in God's love shine brightly, inspiring all who cross her path. This narrative beautifully illustrates the power of faith, community, and the enduring grace that surrounds a child touched by divine affection.`;
 
 export const DISQUS_SHORTNAME = "my-cms-7";
 
